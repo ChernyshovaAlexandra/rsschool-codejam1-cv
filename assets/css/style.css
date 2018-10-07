@@ -1,5 +1,5 @@
 .container{
-    width:1024px;
+    max-width:1024px;
 }
 .last{
     height: 180px !important;
