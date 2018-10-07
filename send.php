@@ -1,6 +1,6 @@
   ​<?php
 
-    define("CONTACT_FORM", 'n.ragozin@inbox.ru');
+    define("CONTACT_FORM", 'alexandrachrystal@gmail.com');
 
     function ValidateEmail($value){
         $regex = '/^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i';
