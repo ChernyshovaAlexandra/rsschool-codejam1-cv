@@ -1,4 +1,4 @@
- ​<?php
+  ​<?php
 
     define("CONTACT_FORM", 'n.ragozin@inbox.ru');
 

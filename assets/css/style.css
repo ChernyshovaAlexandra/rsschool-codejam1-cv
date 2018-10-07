@@ -1,22 +1,19 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+.container{
+    width:1024px;
 }
-.wrapper{
-    max-width: 1024px;
-    margin: 0 auto;
-    padding: 20px 0;
+.last{
+    height: 180px !important;
 }
-header.wrapper{
-    display: flex;s
+.last_quit{
+    margin-left: -90px !important;
 }
-.personal-info{
-    display: flex;
-    justify-content: center;
-}
-.main_photo img{
-    max-width:100px;
-    border-radius: 10px;
-    border: 2px solid gray;
+.circle,
+.circle1,
+.circle2,
+.circle3,
+.circle4,
+.circle5,
+.circle6{
+    margin-top: -100px!important;
+    margin-left: -35px!important;
 }
