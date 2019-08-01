@@ -1,0 +1,19 @@
+.container{
+    max-width:1024px;
+}
+.last{
+    height: 180px !important;
+}
+.last_quit{
+    margin-left: -90px !important;
+}
+.circle,
+.circle1,
+.circle2,
+.circle3,
+.circle4,
+.circle5,
+.circle6{
+    margin-top: -100px!important;
+    margin-left: -35px!important;
+}
