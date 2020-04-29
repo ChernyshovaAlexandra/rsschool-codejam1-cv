@@ -17,3 +17,6 @@
     margin-top: -100px!important;
     margin-left: -35px!important;
 }
+.text-right li{
+    text-transform: uppercase;
+}
